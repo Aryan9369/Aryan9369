@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Aryan katiyar
-- 👀 I’m interested in Machine learning and AI, Data analytics, RDBMS, 
-- 🌱 I’m currently learning C++, Machine learning, Data analytics
-- 📫 if you want to contact me use this email (aryankatiyar9839@gmail.com) 
 
-<!---
-Aryan9369/Aryan9369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Aryan Katiyar!
+🚀 Aspiring AI Engineer | Machine Learning & Data Science Enthusiast
+
+I am a Computer Science Engineering (CSE) student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. With a strong foundation in Python, C++, and Data Science, I love building AI-driven solutions to solve real-world challenges.
+
+🔥 What I Do:
+👨‍💻 Machine Learning & Deep Learning (NLP, Computer Vision)
+🛠️ Tech Stack: Python, C++, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn
+🚀 Projects: AI-powered Resume Screening, Fraud Detection in Online Transactions, and more
+🎓 Active Member of GDSC @ GNIOT
+
+📫 Let's Connect!
+💼 LinkedIn: https://bit.ly/3F5Axm8
+✉️ Email: aryankatiyarjnv@gmail.com
