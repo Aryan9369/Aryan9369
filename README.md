@@ -11,5 +11,6 @@ I am a Computer Science Engineering (CSE) student passionate about Artificial In
 🎓 Active Member of GDSC @ GNIOT
 
 📫 Let's Connect!
+
 💼 LinkedIn: https://bit.ly/3F5Axm8
 ✉️ Email: aryankatiyarjnv@gmail.com
