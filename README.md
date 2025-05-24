@@ -6,7 +6,7 @@ I am a Computer Science Engineering (CSE) student passionate about Artificial In
 
 🔥 What I Do:
 👨‍💻 Machine Learning & Deep Learning (NLP, Computer Vision)                                                                                                                                   
-🛠️ Tech Stack: Python, C++, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn                                                                                                                 
+🛠️ Tech Stack: Python, C++, TensorFlow, PyTorch, Pandas, NumPy, Seaborn, Scikit-learn                                                                                                                 
 🚀 Projects: AI-powered Resume Screening, Fraud Detection in Online Transactions, and more                                                                                                   
 🎓 Active Member of GDSC @ GNIOT
 
