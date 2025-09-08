@@ -1,8 +1,7 @@
 
 👋 Hi, I'm Aryan Katiyar!
-🚀 Aspiring AI Engineer | Machine Learning & Data Science Enthusiast
-
-I am a Computer Science Engineering (CSE) student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. With a strong foundation in Python, C++, and Data Science, I love building AI-driven solutions to solve real-world challenges.
+🚀 Aspiring AI Engineer 
+I am a Computer Science Engineering (CSE) student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. With a strong foundation in Python, C++.
 
 🔥 What I Do:
 ## 🛠 Tech Stack
