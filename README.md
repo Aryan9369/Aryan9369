@@ -27,6 +27,8 @@ I am a Computer Science Engineering (CSE) student passionate about Artificial In
 - 🔹 **Fraud Detection in Online Transactions** → Detect suspicious transactions using ML models  
 
 - 🔹 **More coming soon...**
+
+
 🎓 Active Member of GDSC @ GNIOT
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9369&show_icons=true&theme=radical)
