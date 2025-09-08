@@ -10,9 +10,9 @@ I am a Computer Science Engineering (CSE) student passionate about Artificial In
 🚀 Projects: AI-powered Resume Screening, Fraud Detection in Online Transactions, and more                                                                                                   
 🎓 Active Member of GDSC @ GNIOT
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankatiyar541&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankatiyar541&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankatiyar541&theme=radical)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9369&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9369&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan9369&theme=radical)
 
 
 📫 Let's Connect!
