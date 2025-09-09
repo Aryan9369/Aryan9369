@@ -25,7 +25,7 @@ I am a Computer Science Engineering (CSE) student passionate about Artificial In
 ## 🚀 Projects
 - 🔹 **AI-powered Resume Screening** → Automated candidate filtering with NLP & ML  
 - 🔹 **Fraud Detection in Online Transactions** → Detect suspicious transactions using ML models  
-
+- 🔹 **django-template-inheritance** → shows the concept of template in django (practice)
 - 🔹 **More coming soon...**
 
 
