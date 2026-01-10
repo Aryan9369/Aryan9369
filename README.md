@@ -1,6 +1,6 @@
 
 👋 Hi, I'm Aryan Katiyar!
-🚀 Aspiring AI Engineer 
+🚀 Aspiring Software engineer 
 
 I am a Computer Science Engineering (CSE) student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. With a strong foundation in Python, C++.
 
