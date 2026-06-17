@@ -2,7 +2,7 @@
 👋 Hi, I'm Aryan Katiyar!
 🚀 Aspiring Software engineer 
 
-To know more about mw click here- ![Live](https://aryan9369.github.io/Portfolio/)
+To know more about mw click here- ![here](https://aryan9369.github.io/Portfolio/)
 
 I am a Computer Science Engineering (CSE) student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. With a strong foundation in Python, C++.
 
